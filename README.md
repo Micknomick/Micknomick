@@ -10,4 +10,4 @@
 ](http://qiita.com/noob_engineer_mick)
 
 ![Mick](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micknomick&theme=transparent)
-![Mick's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Mick's GitHub stats](https://github-readme-stats.vercel.app/api?username=micknomick&show_icons=true&bg_color=00000000)
