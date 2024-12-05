@@ -9,6 +9,12 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/noob_engineer_mick/followers.svg)
 ](http://qiita.com/noob_engineer_mick)
 
-![Mick](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micknomick&theme=transparent)
-![Mick's GitHub stats](https://github-readme-stats.vercel.app/api?username=micknomick&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micknomick&layout=compact)
+![Mick](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micknomick&theme=shades_of_purple)
+<p>
+<a href="https://github.com/micknomick">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=micknomick&count_private=true&show_icons=true&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/micknomick">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micknomick&layout=compact&theme=ambient_gradient" />
+</a>
+</p>
