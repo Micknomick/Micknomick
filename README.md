@@ -9,8 +9,8 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/noob_engineer_mick/followers.svg)
 ](http://qiita.com/noob_engineer_mick)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={micknomick}&theme={slateorange})
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={micknomick}&theme={slateorange}&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={micknomick}&theme={slateorange}&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={micknomick}&theme={slateorange})
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={micknomick}&theme={slateorange}&utcOffset={utcOffset})
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micknomick&theme=slateorange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=micknomick&theme=slateorange&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=micknomick&theme=slateorange&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=micknomick&theme=slateorange)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=micknomick&theme=slateorange&utcOffset={utcOffset})
