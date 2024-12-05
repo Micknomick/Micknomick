@@ -9,7 +9,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/noob_engineer_mick/followers.svg)
 ](http://qiita.com/noob_engineer_mick)
 
-![Mick](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micknomick&theme=flag_india)
+![Mick](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micknomick&theme=ambient_gradient)
 <p>
 <a href="https://github.com/micknomick">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=micknomick&count_private=true&show_icons=true&theme=ambient_gradient" />
