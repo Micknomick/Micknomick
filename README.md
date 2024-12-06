@@ -19,3 +19,5 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micknomick&layout=compact&theme=transparent" />
   </a>
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker,html,css,js,react,nextjs,ts,ruby,supbase,tailwind,postgres,&perline=3)](https://skillicons.dev)
