@@ -10,11 +10,12 @@
 ](http://qiita.com/noob_engineer_mick)
 
 ![Mick](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micknomick&theme=transparent)
-<p>
+
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/micknomick">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=micknomick&count_private=true&show_icons=true&theme=transparent" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=micknomick&count_private=true&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/micknomick">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micknomick&layout=compact&theme=transparent" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micknomick&layout=compact&theme=transparent" />
   </a>
-</p>
+</div>
