@@ -20,4 +20,15 @@
   </a>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,html,css,js,react,nextjs,ts,ruby,supabase,tailwind,postgres)](https://skillicons.dev)
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,Ruby," /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,vscode,linux,aws,supabase,figma" /> <br /><br />
+
